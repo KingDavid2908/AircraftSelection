@@ -1,0 +1,7 @@
+Model,Company,"Engine Type","Engine Power HP","Fuel gal/lbs","Range N.M.","Maximum Passenger weight lbs"
+"24 D (thru'72)","Bombardier Aerospace Business Aircraft",Jet,2950,840,1001,6697
+"24 C","Bombardier Aerospace Business Aircraft",Jet,2950,715,1385,5981
+"24 B","Bombardier Aerospace Business Aircraft",Jet,2950,834,1001,6573
+"24 Twin Jet","Bombardier Aerospace Business Aircraft",Jet,2850,847,1100,5910
+"MU-300 Diamond I","Mitsubishi Diamond",Jet,2500,646,1510,5590
+PC-12,"Pilatus Business Aircraft",Propjet,1200,402,2261,4188
